@@ -22,21 +22,24 @@ The following operations must be present:
 
 
 **Global State**
-Store the state from bookings in a global state store of your choice.
+
+Store the state from bookings in a global state store of your choice. ✅
 > Context API
 
 **Validation & User Experience**
+
 Have some logic in place to prevent double (overlapping) bookings. ✅
 
 Validate the start and end dates for a booking. ✅
 
 **Responsive Design**
+
 The webpages should be fully responsive for desktop and mobile. ✅
 
 **Terminology**
+
 A booking is when a guest selects a start and end date and submits a reservation on a property.
 
-_When you are done, upload your project to a public Github repository and email me a link._
 
 -------
 # Task details
